@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/framesuriya/NodePackageManager#readme",
   "dependencies": {
+    "@framesuriya/logger": "^1.0.1",
     "colors": "^1.4.0"
   }
 }
