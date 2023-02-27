@@ -1,5 +1,5 @@
 require('colors');
-const { TYPES } = require('./helper')
+const { TYPES } = require('@framesuriya/logger/helper')
 const { success, warn, error } = TYPES
 const logSuccess = (message) => {
     const msg = message[success]
